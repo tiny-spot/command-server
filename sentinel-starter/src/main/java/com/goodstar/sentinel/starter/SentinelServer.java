@@ -34,6 +34,8 @@ public class SentinelServer {
 		}
 	}
 
+	private SentinelServer() {}
+
 	public static SentinelServer getInstance() {
 		return INSTANCE;
 	}
