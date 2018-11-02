@@ -8,7 +8,7 @@ public class PluginCommandHandler implements CommandHandler {
 
 	@Override
 	public String handler(String command) {
-		return "plugin";
+		return "back plugin!";
 	}
 
 }

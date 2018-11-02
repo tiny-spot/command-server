@@ -8,7 +8,7 @@ public class DefaultCommandHandler implements CommandHandler {
 
 	@Override
 	public String handler(String command) {
-		return "Default";
+		return "back default!";
 	}
 
 }
